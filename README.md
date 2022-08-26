@@ -5,5 +5,5 @@ Generate HMAC headers to be used with https://github.com/rubiojr/gin-middleware/
 ## Install
 
 ```
-go install github.com/rubiojr/hmacgen@latest"
+go install github.com/rubiojr/hmacgen@latest
 ```
